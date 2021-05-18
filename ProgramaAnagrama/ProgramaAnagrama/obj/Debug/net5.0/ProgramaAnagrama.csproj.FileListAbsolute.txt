@@ -1,0 +1,16 @@
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\bin\Debug\net5.0\ProgramaAnagrama.exe
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\bin\Debug\net5.0\ProgramaAnagrama.deps.json
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\bin\Debug\net5.0\ProgramaAnagrama.runtimeconfig.json
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\bin\Debug\net5.0\ProgramaAnagrama.runtimeconfig.dev.json
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\bin\Debug\net5.0\ProgramaAnagrama.dll
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\bin\Debug\net5.0\ref\ProgramaAnagrama.dll
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\bin\Debug\net5.0\ProgramaAnagrama.pdb
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\obj\Debug\net5.0\ProgramaAnagrama.csprojAssemblyReference.cache
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\obj\Debug\net5.0\ProgramaAnagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\obj\Debug\net5.0\ProgramaAnagrama.AssemblyInfoInputs.cache
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\obj\Debug\net5.0\ProgramaAnagrama.AssemblyInfo.cs
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\obj\Debug\net5.0\ProgramaAnagrama.csproj.CoreCompileInputs.cache
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\obj\Debug\net5.0\ProgramaAnagrama.dll
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\obj\Debug\net5.0\ref\ProgramaAnagrama.dll
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\obj\Debug\net5.0\ProgramaAnagrama.pdb
+C:\Users\Leiscar Trinidad\Documents\Anagramas\ProgramaAnagrama\ProgramaAnagrama\obj\Debug\net5.0\ProgramaAnagrama.genruntimeconfig.cache
