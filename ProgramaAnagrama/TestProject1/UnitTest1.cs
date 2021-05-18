@@ -25,5 +25,24 @@ namespace TestProject1
         }
 
 
+
+        [Test]
+        public void AreAnagram_unoanddos_AreEqual_True()
+        {
+            Anagrama anagrama = new Anagrama();
+            Assert.That(() => anagrama.AreAnagram("romo", "moro"), Is.True);
+           
+        }
+
+
+        [Test]
+        public void AreAnagram_unoanddos_AreEqual_False()
+        {
+            Anagrama anagrama = new Anagrama();
+            Assert.That(() => anagrama.AreAnagram("Moco", "moro"), Is.False);
+
+        }
+
+
     }
 }
